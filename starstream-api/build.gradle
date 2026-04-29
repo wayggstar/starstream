@@ -1,0 +1,21 @@
+plugins {
+    id 'java-library'
+    id 'maven-publish'
+}
+
+base.archivesName = 'starstream-api'
+
+publishing {
+    publications {
+        register('mavenJava', MavenPublication) {
+            from components.java
+        }
+    }
+    repositories {
+        maven { url "file://${rootProject.projectDir}/repo" }
+    }
+}
+
+java {
+    withSourcesJar()
+}

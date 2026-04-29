@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1372144871/starstream.starstream-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1372144871/starstream.starstream-api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1372144871/starstream.starstream-api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/-1372144871/starstream.starstream-api.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/413240960/starstream.starstream-core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/413240960/starstream.starstream-core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/413240960/starstream.starstream-core.test.iml" filepath="$PROJECT_DIR$/.idea/modules/413240960/starstream.starstream-core.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1202663861/starstream.starstream-ui.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1202663861/starstream.starstream-ui.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1202663861/starstream.starstream-ui.test.iml" filepath="$PROJECT_DIR$/.idea/modules/1202663861/starstream.starstream-ui.test.iml" />
+    </modules>
+  </component>
+</project>

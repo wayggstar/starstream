@@ -1,0 +1,29 @@
+# Main Class
+cpw.mods.bootstraplauncher.BootstrapLauncher
+
+# NeoForge Run-Type Program Arguments
+--launchTarget
+forgedatadev
+--assetIndex
+17
+--assetsDir
+/Users/joonyoungseo/.gradle/caches/neoformruntime/assets
+--gameDir
+.
+--fml.fmlVersion
+4.0.42
+--fml.mcVersion
+1.21.1
+--fml.neoForgeVersion
+21.1.228
+--fml.neoFormVersion
+20240808.144430
+
+# User Supplied Program Arguments
+--mod
+starstream_ui
+--all
+--output
+"/Users/joonyoungseo/숯불온라인/전독시 모드화 프로젝트/starstream/starstream-ui/src/generated/resources"
+--existing
+"/Users/joonyoungseo/숯불온라인/전독시 모드화 프로젝트/starstream/starstream-ui/src/main/resources"
